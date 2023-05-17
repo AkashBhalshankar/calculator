@@ -1,0 +1,48 @@
+.title
+{
+    margin-bottom: 10px;
+    text-align: center;
+    width: 210px;
+    color: blue;
+    border: solid black 2px;
+    border-radius: 5px;
+}
+.main{
+    width: 100%;
+    height: 100vh;
+    background: #e3f9ff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.tabl{
+    height: 300px;
+    width: 250px;
+    background-color: blueviolet;
+    border-radius: 20px;
+    margin-left: 20px;
+    box-shadow: 3px 5px;
+    word-spacing: 100px;
+
+}
+input{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    font-size: 20px;
+    margin-left: 4px;
+    margin-top: 4px;
+}
+#result {
+    height: 50px;
+    width: 150px;
+}
+.cle{
+    width:55px;
+    height: 50px;
+    border-radius: 50px;
+}
+input:hover{
+    color: red;
+}
